@@ -8,3 +8,4 @@ STATUS
 ADDING AUDIO CALL
 ADDING VIDEO CALL
 group fetures
+added documention
